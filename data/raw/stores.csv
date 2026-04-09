@@ -1,0 +1,21 @@
+city,region,latitude,longitude,monthly_demand_tonnes
+Casablanca,Centre,33.5731,-7.5898,450
+Rabat,Centre,34.0209,-6.8416,320
+Fès,Nord,34.0331,-5.0003,280
+Marrakech,Sud,31.6295,-7.9811,310
+Agadir,Sud,30.4278,-9.5981,190
+Tanger,Nord,35.7595,-5.834,220
+Oujda,Est,34.6814,-1.9086,150
+Laâyoune,Sud,27.1418,-13.18,80
+Meknès,Centre,33.8935,-5.5473,200
+Béni Mellal,Centre,32.3372,-6.3498,170
+Kénitra,Nord,34.261,-6.5802,180
+Tétouan,Nord,35.5785,-5.3684,160
+Safi,Ouest,32.2994,-9.2372,140
+El Jadida,Ouest,33.2316,-8.5007,150
+Nador,Est,35.174,-2.9287,120
+Settat,Centre,33.0014,-7.6166,130
+Khouribga,Centre,32.8811,-6.9063,110
+Essaouira,Ouest,31.5125,-9.7749,90
+Ouarzazate,Sud,30.9335,-6.937,85
+Dakhla,Sud,23.7136,-15.9355,60
