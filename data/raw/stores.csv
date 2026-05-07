@@ -1,21 +1,21 @@
-city,region,latitude,longitude,monthly_demand_tonnes
-Casablanca,Centre,33.5731,-7.5898,4500
-Rabat,Centre,34.0209,-6.8416,3200
-Fès,Nord,34.0331,-5.0003,2800
-Marrakech,Sud,31.6295,-7.9811,3100
-Agadir,Sud,30.4278,-9.5981,1900
-Tanger,Nord,35.7595,-5.834,2200
-Oujda,Est,34.6814,-1.9086,1500
-Laâyoune,Sud,27.1418,-13.18,800
-Meknès,Centre,33.8935,-5.5473,2000
-Béni Mellal,Centre,32.3372,-6.3498,1700
-Kénitra,Nord,34.261,-6.5802,1800
-Tétouan,Nord,35.5785,-5.3684,1600
-Safi,Ouest,32.2994,-9.2372,1400
-El Jadida,Ouest,33.2316,-8.5007,1500
-Nador,Est,35.174,-2.9287,1200
-Settat,Centre,33.0014,-7.6166,1300
-Khouribga,Centre,32.8811,-6.9063,1100
-Essaouira,Ouest,31.5125,-9.7749,900
-Ouarzazate,Sud,30.9335,-6.937,850
-Dakhla,Sud,23.7136,-15.9355,600
+store_id,city,region,latitude,longitude,monthly_demand_tonnes
+S001,Casablanca,Centre,33.5731,-7.5898,4500
+S002,Rabat,Centre,34.0209,-6.8416,3200
+S003,Fès,Nord,34.0331,-5.0003,2800
+S004,Marrakech,Sud,31.6295,-7.9811,3100
+S005,Agadir,Sud,30.4278,-9.5981,1900
+S006,Tanger,Nord,35.7595,-5.834,2200
+S007,Oujda,Est,34.6814,-1.9086,1500
+S008,Laâyoune,Sud,27.1418,-13.18,800
+S009,Meknès,Centre,33.8935,-5.5473,2000
+S010,Béni Mellal,Centre,32.3372,-6.3498,1700
+S011,Kénitra,Nord,34.261,-6.5802,1800
+S012,Tétouan,Nord,35.5785,-5.3684,1600
+S013,Safi,Ouest,32.2994,-9.2372,1400
+S014,El Jadida,Ouest,33.2316,-8.5007,1500
+S015,Nador,Est,35.174,-2.9287,1200
+S016,Settat,Centre,33.0014,-7.6166,1300
+S017,Khouribga,Centre,32.8811,-6.9063,1100
+S018,Essaouira,Ouest,31.5125,-9.7749,900
+S019,Ouarzazate,Sud,30.9335,-6.937,850
+S020,Dakhla,Sud,23.7136,-15.9355,600

@@ -1,0 +1,21 @@
+warehouse_id,store_id,city_store,city_warehouse,quantity_tonnes,transport_cost_mad
+W8,S020,Dakhla,Laâyoune,782.0,128676.0
+W4,S010,Béni Mellal,Marrakech,1959.0,118613.0
+W4,S013,Safi,Marrakech,1252.0,61373.0
+W1,S017,Khouribga,Casablanca,1401.0,48911.0
+W4,S019,Ouarzazate,Marrakech,1053.0,46384.0
+W5,S018,Essaouira,Agadir,946.0,40209.0
+W7,S015,Nador,Oujda,1038.0,39252.0
+W3,S009,Meknès,Fès,2108.0,39011.0
+W1,S014,El Jadida,Casablanca,1048.0,34045.0
+W6,S012,Tétouan,Tanger,1958.0,31999.0
+W2,S011,Kénitra,Rabat,2309.0,29033.0
+W1,S016,Settat,Casablanca,1026.0,22787.0
+W1,S001,Casablanca,Casablanca,4566.0,0.0
+W4,S004,Marrakech,Marrakech,3211.0,0.0
+W2,S002,Rabat,Rabat,1728.0,0.0
+W3,S003,Fès,Fès,4142.0,0.0
+W6,S006,Tanger,Tanger,3210.0,0.0
+W5,S005,Agadir,Agadir,1941.0,0.0
+W7,S007,Oujda,Oujda,1374.0,0.0
+W8,S008,Laâyoune,Laâyoune,648.0,0.0
