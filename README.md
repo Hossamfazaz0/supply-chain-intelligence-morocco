@@ -1,6 +1,6 @@
 # 🇲🇦 Morocco Supply Chain Intelligence Platform
 
-> Engineered a supply chain optimization platform for Morocco's FMCG sector — identifying **6.2M MAD annual cost reduction (16%)** vs heuristic allocation, with causal validation of warehouse expansion impact.
+> Engineered a supply chain optimization platform for Morocco's FMCG sector — identifying  cost reduction vs heuristic allocation, with causal validation of warehouse expansion impact.
 
 ---
 
